@@ -1,3 +1,4 @@
+#select base OS default:rocky
 FROM rockylinux:9.3
 
 LABEL frame="frame"
