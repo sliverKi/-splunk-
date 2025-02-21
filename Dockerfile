@@ -1,6 +1,6 @@
 FROM rockylinux:9.3
 
-LABEL woori="WOORI"
+LABEL frame="frame"
 
 # Install dependencies
 RUN dnf -y update && \
